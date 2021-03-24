@@ -1,0 +1,43 @@
+/*Styles front*/
+.content {
+  background-color: #e5e5e5;
+}
+h1 {
+  text-align: center;
+  color: #fca311;
+}
+table {
+  text-align: left;
+  border-collapse: collapse;
+  width: 800px;
+  margin: 50px auto;
+}
+th {
+  border: solid 3px #003049;
+  padding: 0;
+  color: white;
+}
+td {
+  padding: 0;
+  align-items: center;
+  text-align: center;
+}
+.tableHead {
+  background-color: #003049;
+}
+.inputPrincipal {
+  background-color: #ade8f4;
+  border: 0;
+}
+.input {
+  border: 0;
+}
+.contentResult {
+  width: 180px;
+  background-color: #99d98c;
+  margin-left: 80px;
+}
+.txtResult {
+  color: black;
+  font-weight: bold;
+}
